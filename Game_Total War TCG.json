@@ -20,7 +20,7 @@
     "formats": [
       {
         "title": "Classic",
-        "gameplay": "",
+        "gameplay": "Classic",
 		"legalityCode": "CLA",
 		"deckRuleset": "Classic"
       }
