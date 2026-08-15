@@ -1,0 +1,5956 @@
+{				
+	"OoW-H1-001": {			
+		"id": "OoW-H1-001",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Cogno",
+				"type": "Leader",
+				"cost": 0,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-001.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Cogno",		
+		"type": "Leader",		
+		"cost": 0,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-001",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-002": {			
+		"id": "OoW-H1-002",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Cogno, the Righteous",
+				"type": "Hero – Unit",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-002.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Cogno, the Righteous",		
+		"type": "Hero – Unit",		
+		"cost": 8,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-002",		
+		"Trait": "Human / Higher Up / Passion",		
+		"ATK": 5,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-01": {			
+		"id": "OoW-To-01",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Vanguard",
+				"type": "Token – Unit",
+				"cost": 1,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-01.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Vanguard",		
+		"type": "Token – Unit",		
+		"cost": 1,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-To-01",		
+		"Trait": "Human / Soldier",		
+		"ATK": 1,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-02": {			
+		"id": "OoW-To-02",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Fencer",
+				"type": "Token – Unit",
+				"cost": 1,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-02.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Fencer",		
+		"type": "Token – Unit",		
+		"cost": 1,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-To-02",		
+		"Trait": "Human / Soldier",		
+		"ATK": 1,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-03": {			
+		"id": "OoW-To-03",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Rider",
+				"type": "Token – Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-03.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Rider",		
+		"type": "Token – Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-To-03",		
+		"Trait": "Human / Soldier",		
+		"ATK": 2,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-04": {			
+		"id": "OoW-To-04",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Shielder",
+				"type": "Token – Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-04.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Shielder",		
+		"type": "Token – Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-To-04",		
+		"Trait": "Human / Soldier",		
+		"ATK": 2,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-05": {			
+		"id": "OoW-To-05",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Commander",
+				"type": "Token – Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-05.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Commander",		
+		"type": "Token – Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-To-05",		
+		"Trait": "Human / Sergeant",		
+		"ATK": 3,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-003": {			
+		"id": "OoW-H1-003",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Assemble !",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-003.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Assemble !",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-003",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-004": {			
+		"id": "OoW-H1-004",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Defend !",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-004.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Defend !",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-004",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-005": {			
+		"id": "OoW-H1-005",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Break Through !",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-005.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Break Through !",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-005",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-006": {			
+		"id": "OoW-H1-006",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Commander, assist me !",
+				"type": "Order",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-006.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Commander, assist me !",		
+		"type": "Order",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-006",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-007": {			
+		"id": "OoW-H1-007",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Everyone, to your posts !",
+				"type": "Order",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-007.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Everyone, to your posts !",		
+		"type": "Order",		
+		"cost": 8,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-007",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-008": {			
+		"id": "OoW-H1-008",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Old Colonel",
+				"type": "Unit",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-008.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Old Colonel",		
+		"type": "Unit",		
+		"cost": 6,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-008",		
+		"Trait": "Human / Higher Up / Wisdom",		
+		"ATK": 2,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-009": {			
+		"id": "OoW-H1-009",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Chauvinistic Knight",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-009.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Chauvinistic Knight",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-009",		
+		"Trait": "Human / Passion",		
+		"ATK": 3,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-010": {			
+		"id": "OoW-H1-010",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Cavalier in Shining Armor",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-010.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Cavalier in Shining Armor",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-010",		
+		"Trait": "Human / Riding",		
+		"ATK": 3,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-011": {			
+		"id": "OoW-H1-011",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Sweeping Horseman",
+				"type": "Unit",
+				"cost": 7,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-011.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Sweeping Horseman",		
+		"type": "Unit",		
+		"cost": 7,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-011",		
+		"Trait": "Human / Higher Up / Riding",		
+		"ATK": 5,		
+		"HP": 6,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-012": {			
+		"id": "OoW-H1-012",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Newly Appointed Captain",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-012.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Newly Appointed Captain",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-012",		
+		"Trait": "Human / Higher Up",		
+		"ATK": 2,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-013": {			
+		"id": "OoW-H1-013",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Defending Archer",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-013.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Defending Archer",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-013",		
+		"Trait": "Human / Ranged",		
+		"ATK": 1,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-014": {			
+		"id": "OoW-H1-014",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "General on the brink of death",
+				"type": "Unit",
+				"cost": 10,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-014.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "General on the brink of death",		
+		"type": "Unit",		
+		"cost": 10,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-014",		
+		"Trait": "Human / Higher Up / Wounded",		
+		"ATK": 8,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-015": {			
+		"id": "OoW-H1-015",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Banner-bearer",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-015.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Banner-bearer",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-015",		
+		"Trait": "Human / Passion",		
+		"ATK": 0,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-016": {			
+		"id": "OoW-H1-016",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Wise Recruiter",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-016.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Wise Recruiter",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-016",		
+		"Trait": "Human / Wisdom",		
+		"ATK": 2,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-017": {			
+		"id": "OoW-H1-017",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Helio",
+				"type": "Leader",
+				"cost": 0,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-017.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Helio",		
+		"type": "Leader",		
+		"cost": 0,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-017",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-018": {			
+		"id": "OoW-H1-018",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Helio, Godsworn Paladin",
+				"type": "Hero – Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-018.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Helio, Godsworn Paladin",		
+		"type": "Hero – Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-018",		
+		"Trait": "Human / Faith / Paladin",		
+		"ATK": 1,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-06": {			
+		"id": "OoW-To-06",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Joined Prayers",
+				"type": "Token - Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-06.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Joined Prayers",		
+		"type": "Token - Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-To-06",		
+		"Trait": "Faith",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-07": {			
+		"id": "OoW-To-07",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Paladin's Aura",
+				"type": "Token - Aura",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-07.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Paladin's Aura",		
+		"type": "Token - Aura",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-To-07",		
+		"Trait": "Faith",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-08": {			
+		"id": "OoW-To-08",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Archangel Michael",
+				"type": "Token - Unit",
+				"cost": 10,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-08.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Archangel Michael",		
+		"type": "Token - Unit",		
+		"cost": 10,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-To-08",		
+		"Trait": "Holy",		
+		"ATK": 7,		
+		"HP": 11,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-019": {			
+		"id": "OoW-H1-019",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "May the light guide us.",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-019.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "May the light guide us.",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-019",		
+		"Trait": "Faith",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-020": {			
+		"id": "OoW-H1-020",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Ha! Nobody expects the inquisition!",
+				"type": "Trap",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-020.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Ha! Nobody expects the inquisition!",		
+		"type": "Trap",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-020",		
+		"Trait": "Faith",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-021": {			
+		"id": "OoW-H1-021",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Fellow believers, join our cause.",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-021.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Fellow believers, join our cause.",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-021",		
+		"Trait": "Faith",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-022": {			
+		"id": "OoW-H1-022",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "A prayer to our Savior...",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-022.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "A prayer to our Savior...",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-022",		
+		"Trait": "Faith",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-023": {			
+		"id": "OoW-H1-023",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Miracle Witness.",
+				"type": "Order",
+				"cost": 10,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-023.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Miracle Witness.",		
+		"type": "Order",		
+		"cost": 10,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-023",		
+		"Trait": "Holy",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-024": {			
+		"id": "OoW-H1-024",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "White Paladin",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-024.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "White Paladin",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-024",		
+		"Trait": "Human / Faith / Paladin",		
+		"ATK": 5,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-025": {			
+		"id": "OoW-H1-025",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Exorcising Priest",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-025.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Exorcising Priest",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-025",		
+		"Trait": "Human / Faith / Priest",		
+		"ATK": 2,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-026": {			
+		"id": "OoW-H1-026",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Galvanized Crusader",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-026.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Galvanized Crusader",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-026",		
+		"Trait": "Human / Faith / Passion",		
+		"ATK": 3,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-027": {			
+		"id": "OoW-H1-027",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Stored Spell of Healing",
+				"type": "Trap",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-027.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Stored Spell of Healing",		
+		"type": "Trap",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-027",		
+		"Trait": "Faith",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-028": {			
+		"id": "OoW-H1-028",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Young Nun",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-028.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Young Nun",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-028",		
+		"Trait": "Human / Faith / Nun",		
+		"ATK": 2,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-029": {			
+		"id": "OoW-H1-029",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Kind Bishop",
+				"type": "Unit",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-029.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Kind Bishop",		
+		"type": "Unit",		
+		"cost": 8,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-029",		
+		"Trait": "Human / Faith / Priest",		
+		"ATK": 6,		
+		"HP": 8,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-030": {			
+		"id": "OoW-H1-030",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Frontline Nurse",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-030.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Frontline Nurse",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-030",		
+		"Trait": "Human / Faith / Nun",		
+		"ATK": 2,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-031": {			
+		"id": "OoW-H1-031",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Faithful Devotee",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-031.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Faithful Devotee",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-031",		
+		"Trait": "Human / Faith",		
+		"ATK": 1,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H1-032": {			
+		"id": "OoW-H1-032",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Commanding Cardinal",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H1-032.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Commanding Cardinal",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Humans 1"	
+		],		
+		"Card ID": "OoW-H1-032",		
+		"Trait": "Human / Faith / Wisdom",		
+		"ATK": 3,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-033": {			
+		"id": "OoW-H2-033",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Maria",
+				"type": "Leader",
+				"cost": 0,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-033.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Maria",		
+		"type": "Leader",		
+		"cost": 0,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-033",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-034": {			
+		"id": "OoW-H2-034",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Maria, Independent Witch of Duality",
+				"type": "Hero – Unit",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-034.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Maria, Independent Witch of Duality",		
+		"type": "Hero – Unit",		
+		"cost": 8,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-034",		
+		"Trait": "Human / Witch / Ranged",		
+		"ATK": 3,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-09": {			
+		"id": "OoW-To-09",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Maria, Shy Witch of Scourge",
+				"type": "Token – Aura",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-09.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Maria, Shy Witch of Scourge",		
+		"type": "Token – Aura",		
+		"cost": 8,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-To-09",		
+		"Trait": "Witch",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-10": {			
+		"id": "OoW-To-10",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Maria, Haughty Witch of Pyromania",
+				"type": "Token – Aura",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-10.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Maria, Haughty Witch of Pyromania",		
+		"type": "Token – Aura",		
+		"cost": 8,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-To-10",		
+		"Trait": "Witch",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-11": {			
+		"id": "OoW-To-11",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Maria, Ultimate Witch of Instant Death",
+				"type": "Token – Unit",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-11.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Maria, Ultimate Witch of Instant Death",		
+		"type": "Token – Unit",		
+		"cost": 6,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-To-11",		
+		"Trait": "Human / Witch / Assassin",		
+		"ATK": 6,		
+		"HP": 6,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-12": {			
+		"id": "OoW-To-12",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Maria's Fanatic",
+				"type": "Token – Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-12.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Maria's Fanatic",		
+		"type": "Token – Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-To-12",		
+		"Trait": "Submited",		
+		"ATK": 2,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-13": {			
+		"id": "OoW-To-13",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Maria's Human Shield",
+				"type": "Token – Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-13.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Maria's Human Shield",		
+		"type": "Token – Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-To-13",		
+		"Trait": "Submited",		
+		"ATK": 4,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-035": {			
+		"id": "OoW-H2-035",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Have a little taste of this !",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-035.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Have a little taste of this !",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-035",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-036": {			
+		"id": "OoW-H2-036",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Go... my precious fans !",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-036.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Go... my precious fans !",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-036",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-037": {			
+		"id": "OoW-H2-037",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Protect me, trash !",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-037.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Protect me, trash !",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-037",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-038": {			
+		"id": "OoW-H2-038",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Burn !",
+				"type": "Order",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-038.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Burn !",		
+		"type": "Order",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-038",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-039": {			
+		"id": "OoW-H2-039",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "This might hurt... S-sorry...",
+				"type": "Order",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-039.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "This might hurt... S-sorry...",		
+		"type": "Order",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-039",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-040": {			
+		"id": "OoW-H2-040",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Fire Blast !",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-040.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Fire Blast !",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-040",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-041": {			
+		"id": "OoW-H2-041",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Poison... s-steam !",
+				"type": "Order",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-041.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Poison... s-steam !",		
+		"type": "Order",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-041",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-042": {			
+		"id": "OoW-H2-042",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "It's over, you lost !",
+				"type": "Order",
+				"cost": 9,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-042.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "It's over, you lost !",		
+		"type": "Order",		
+		"cost": 9,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-042",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-043": {			
+		"id": "OoW-H2-043",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Little Witch of Flames",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-043.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Little Witch of Flames",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-043",		
+		"Trait": "Human / Witch / Ranged",		
+		"ATK": 2,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-044": {			
+		"id": "OoW-H2-044",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "The Man with the Flamethrower",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-044.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "The Man with the Flamethrower",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-044",		
+		"Trait": "Human / Ranged",		
+		"ATK": 5,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-045": {			
+		"id": "OoW-H2-045",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Poisoning Alchemist",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-045.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Poisoning Alchemist",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-045",		
+		"Trait": "Human / Alchemist / Assassin",		
+		"ATK": 0,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-046": {			
+		"id": "OoW-H2-046",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Malicious Doctor",
+				"type": "Unit",
+				"cost": 7,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-046.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Malicious Doctor",		
+		"type": "Unit",		
+		"cost": 7,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-046",		
+		"Trait": "Human / Doctor / Assassin",		
+		"ATK": 4,		
+		"HP": 7,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-047": {			
+		"id": "OoW-H2-047",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Chaos Enjoyer",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-047.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Chaos Enjoyer",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-047",		
+		"Trait": "Human / Twisted",		
+		"ATK": 1,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-048": {			
+		"id": "OoW-H2-048",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Arnold",
+				"type": "Leader",
+				"cost": 0,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-048.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Arnold",		
+		"type": "Leader",		
+		"cost": 0,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-048",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-049": {			
+		"id": "OoW-H2-049",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Arnold, Necromancer of the Pillar",
+				"type": "Hero – Unit",
+				"cost": 7,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-049.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Arnold, Necromancer of the Pillar",		
+		"type": "Hero – Unit",		
+		"cost": 7,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-049",		
+		"Trait": "Pillar-Man / Necromancer",		
+		"ATK": 6,		
+		"HP": 7,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-14": {			
+		"id": "OoW-To-14",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Zombie",
+				"type": "Token – Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-14.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Zombie",		
+		"type": "Token – Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-To-14",		
+		"Trait": "Revived / Monster",		
+		"ATK": 1,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-15": {			
+		"id": "OoW-To-15",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Skeleton",
+				"type": "Token – Unit",
+				"cost": 1,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-15.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Skeleton",		
+		"type": "Token – Unit",		
+		"cost": 1,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-To-15",		
+		"Trait": "Revived / Monster",		
+		"ATK": 2,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-16": {			
+		"id": "OoW-To-16",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Moving Corpse",
+				"type": "Token – Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-16.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Moving Corpse",		
+		"type": "Token – Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-To-16",		
+		"Trait": "Revived / Monster",		
+		"ATK": 0,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-050": {			
+		"id": "OoW-H2-050",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Rise.",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-050.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Rise.",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-050",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-051": {			
+		"id": "OoW-H2-051",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "March forth.",
+				"type": "Order",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-051.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "March forth.",		
+		"type": "Order",		
+		"cost": 8,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-051",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-052": {			
+		"id": "OoW-H2-052",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Malicious Pot of Soul Gathering",
+				"type": "Trap",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-052.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Malicious Pot of Soul Gathering",		
+		"type": "Trap",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-052",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-053": {			
+		"id": "OoW-H2-053",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Join us.",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-053.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Join us.",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-053",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-054": {			
+		"id": "OoW-H2-054",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Get up.",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-054.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Get up.",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-054",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-055": {			
+		"id": "OoW-H2-055",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Fear the lacking ones.",
+				"type": "Order",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-055.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Fear the lacking ones.",		
+		"type": "Order",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-055",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-056": {			
+		"id": "OoW-H2-056",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Novice Necromancer",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-056.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Novice Necromancer",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-056",		
+		"Trait": "Human / Necromancer",		
+		"ATK": 1,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-057": {			
+		"id": "OoW-H2-057",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Headless Horseman",
+				"type": "Unit",
+				"cost": 7,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-057.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Headless Horseman",		
+		"type": "Unit",		
+		"cost": 7,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-057",		
+		"Trait": "Revived / Riding / Twisted",		
+		"ATK": 6,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-058": {			
+		"id": "OoW-H2-058",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Maidenless Tarnished",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-058.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Maidenless Tarnished",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-058",		
+		"Trait": "Revived / Warrior / Twisted",		
+		"ATK": 4,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-059": {			
+		"id": "OoW-H2-059",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Grieving Painter",
+				"type": "Unit",
+				"cost": 11,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-059.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Grieving Painter",		
+		"type": "Unit",		
+		"cost": 11,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-059",		
+		"Trait": "Revived / Painter / Twisted",		
+		"ATK": 1,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-060": {			
+		"id": "OoW-H2-060",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Plague-Inflicting Ghoul",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-060.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Plague-Inflicting Ghoul",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-060",		
+		"Trait": "Revived / Ghoul",		
+		"ATK": 2,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-061": {			
+		"id": "OoW-H2-061",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "General Forced back into War",
+				"type": "Unit",
+				"cost": 10,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-061.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "General Forced back into War",		
+		"type": "Unit",		
+		"cost": 10,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-061",		
+		"Trait": "Revived / Higher Up",		
+		"ATK": 10,		
+		"HP": 15,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-062": {			
+		"id": "OoW-H2-062",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Android Necromancer",
+				"type": "Unit",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-062.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Android Necromancer",		
+		"type": "Unit",		
+		"cost": 6,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-062",		
+		"Trait": "Android / Necromancer",		
+		"ATK": 2,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-063": {			
+		"id": "OoW-H2-063",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Cursed Corpse of Immortality",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-063.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Cursed Corpse of Immortality",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-063",		
+		"Trait": "Revived / Monster",		
+		"ATK": 2,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-064": {			
+		"id": "OoW-H2-064",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Soul-Feeding Addict",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-064.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Soul-Feeding Addict",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-064",		
+		"Trait": "Human / Twisted",		
+		"ATK": 2,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-H2-065": {			
+		"id": "OoW-H2-065",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Afro Skeleton",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-H2-065.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Afro Skeleton",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Humans 2"	
+		],		
+		"Card ID": "OoW-H2-065",		
+		"Trait": "Revived / Monster / Singer",		
+		"ATK": 3,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-066": {			
+		"id": "OoW-E-066",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Zhena",
+				"type": "Leader",
+				"cost": 0,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-066.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Zhena",		
+		"type": "Leader",		
+		"cost": 0,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-066",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-067": {			
+		"id": "OoW-E-067",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Zhena, Nature's Enchantress",
+				"type": "Hero – Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-067.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Zhena, Nature's Enchantress",		
+		"type": "Hero – Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-067",		
+		"Trait": "Elf / Promiscuous",		
+		"ATK": 2,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-17": {			
+		"id": "OoW-To-17",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Forest's Boon",
+				"type": "Token - Seal",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-17.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Forest's Boon",		
+		"type": "Token - Seal",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-To-17",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-18": {			
+		"id": "OoW-To-18",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Forest's Malediction",
+				"type": "Token - Seal",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-18.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Forest's Malediction",		
+		"type": "Token - Seal",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-To-18",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-19": {			
+		"id": "OoW-To-19",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Forest's Decree",
+				"type": "Token - Seal",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-19.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Forest's Decree",		
+		"type": "Token - Seal",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-To-19",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-068": {			
+		"id": "OoW-E-068",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Nature's Seal : Blessing.",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-068.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Nature's Seal : Blessing.",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-068",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-069": {			
+		"id": "OoW-E-069",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Nature's Seal : Curse.",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-069.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Nature's Seal : Curse.",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-069",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-070": {			
+		"id": "OoW-E-070",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Nature's Seal : Judgment.",
+				"type": "Order",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-070.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Nature's Seal : Judgment.",		
+		"type": "Order",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-070",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-071": {			
+		"id": "OoW-E-071",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "You can stare wherever you want~",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-071.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "You can stare wherever you want~",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-071",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-072": {			
+		"id": "OoW-E-072",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "But don't stare too long, or else…",
+				"type": "Order",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-072.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "But don't stare too long, or else…",		
+		"type": "Order",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-072",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-073": {			
+		"id": "OoW-E-073",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Eyes up here~",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-073.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Eyes up here~",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-073",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-074": {			
+		"id": "OoW-E-074",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Gimme that~",
+				"type": "Order",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-074.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Gimme that~",		
+		"type": "Order",		
+		"cost": 6,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-074",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-075": {			
+		"id": "OoW-E-075",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "And... Up you go~",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-075.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "And... Up you go~",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-075",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-076": {			
+		"id": "OoW-E-076",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Binding Elf",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-076.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Binding Elf",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-076",		
+		"Trait": "Elf",		
+		"ATK": 2,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-077": {			
+		"id": "OoW-E-077",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Zhena's Apprentice",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-077.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Zhena's Apprentice",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-077",		
+		"Trait": "Elf / Promiscuous",		
+		"ATK": 2,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-078": {			
+		"id": "OoW-E-078",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Nature's Protector",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-078.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Nature's Protector",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-078",		
+		"Trait": "Spirit",		
+		"ATK": 0,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-079": {			
+		"id": "OoW-E-079",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Heavy Lifting Elf",
+				"type": "Unit",
+				"cost": 9,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-079.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Heavy Lifting Elf",		
+		"type": "Unit",		
+		"cost": 9,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-079",		
+		"Trait": "Elf / Wide",		
+		"ATK": 8,		
+		"HP": 10,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-080": {			
+		"id": "OoW-E-080",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elf Illusionist",
+				"type": "Unit",
+				"cost": 7,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-080.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elf Illusionist",		
+		"type": "Unit",		
+		"cost": 7,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-080",		
+		"Trait": "Elf / Magician",		
+		"ATK": 7,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-081": {			
+		"id": "OoW-E-081",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elf of Slowness",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-081.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elf of Slowness",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-081",		
+		"Trait": "Elf",		
+		"ATK": 4,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-082": {			
+		"id": "OoW-E-082",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Sabotaging Elf",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-082.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Sabotaging Elf",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-082",		
+		"Trait": "Elf / Assassin",		
+		"ATK": 1,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-083": {			
+		"id": "OoW-E-083",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Nastasia",
+				"type": "Leader",
+				"cost": 0,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-083.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Nastasia",		
+		"type": "Leader",		
+		"cost": 0,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-083",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-084": {			
+		"id": "OoW-E-084",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Nastasia, Elf Queen",
+				"type": "Hero – Unit",
+				"cost": 7,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-084.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Nastasia, Elf Queen",		
+		"type": "Hero – Unit",		
+		"cost": 7,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-084",		
+		"Trait": "High Elf / Queen / Higher Up",		
+		"ATK": 3,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-20": {			
+		"id": "OoW-To-20",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Verdant Legacy",
+				"type": "Token - Seal",
+				"cost": 1,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-20.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Verdant Legacy",		
+		"type": "Token - Seal",		
+		"cost": 1,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-To-20",		
+		"Trait": "High Elf",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-21": {			
+		"id": "OoW-To-21",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Verdant Treatment",
+				"type": "Token - Order",
+				"cost": 1,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-21.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Verdant Treatment",		
+		"type": "Token - Order",		
+		"cost": 1,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-To-21",		
+		"Trait": "High Elf",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-22": {			
+		"id": "OoW-To-22",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Royal Knowledge",
+				"type": "Token - Seal",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-22.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Royal Knowledge",		
+		"type": "Token - Seal",		
+		"cost": 8,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-To-22",		
+		"Trait": "High Elf",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-085": {			
+		"id": "OoW-E-085",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "You'll regret defying us.",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-085.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "You'll regret defying us.",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-085",		
+		"Trait": "High Elf",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-086": {			
+		"id": "OoW-E-086",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Show these lowlifes our power.",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-086.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Show these lowlifes our power.",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-086",		
+		"Trait": "High Elf",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-087": {			
+		"id": "OoW-E-087",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Face the consequences.",
+				"type": "Order",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-087.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Face the consequences.",		
+		"type": "Order",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-087",		
+		"Trait": "High Elf",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-088": {			
+		"id": "OoW-E-088",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Feel the elven superiority.",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-088.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Feel the elven superiority.",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-088",		
+		"Trait": "High Elf",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-089": {			
+		"id": "OoW-E-089",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elven nobility, at it's finest.",
+				"type": "Order",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-089.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elven nobility, at it's finest.",		
+		"type": "Order",		
+		"cost": 6,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-089",		
+		"Trait": "High Elf",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-090": {			
+		"id": "OoW-E-090",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elf Lecturer",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-090.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elf Lecturer",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-090",		
+		"Trait": "High Elf / Intellectual",		
+		"ATK": 4,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-091": {			
+		"id": "OoW-E-091",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Noble Elf",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-091.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Noble Elf",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-091",		
+		"Trait": "High Elf / Higher Up",		
+		"ATK": 2,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-092": {			
+		"id": "OoW-E-092",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elite Archer",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-092.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elite Archer",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-092",		
+		"Trait": "High Elf / Ranged",		
+		"ATK": 1,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-093": {			
+		"id": "OoW-E-093",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elf Researcher",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-093.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elf Researcher",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-093",		
+		"Trait": "High Elf / Intellectual",		
+		"ATK": 2,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-094": {			
+		"id": "OoW-E-094",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elf Scholar",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-094.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elf Scholar",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-094",		
+		"Trait": "High Elf / Intellectual",		
+		"ATK": 5,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-095": {			
+		"id": "OoW-E-095",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Venerable Elder",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-095.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Venerable Elder",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-095",		
+		"Trait": "High Elf / Wisdom",		
+		"ATK": 1,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-096": {			
+		"id": "OoW-E-096",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elf Administrator",
+				"type": "Unit",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-096.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elf Administrator",		
+		"type": "Unit",		
+		"cost": 6,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-096",		
+		"Trait": "High Elf / Higher Up",		
+		"ATK": 4,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-097": {			
+		"id": "OoW-E-097",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elf Doctor",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-097.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elf Doctor",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-097",		
+		"Trait": "High Elf / Doctor",		
+		"ATK": 3,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-098": {			
+		"id": "OoW-E-098",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Royal Scout",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-098.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Royal Scout",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-098",		
+		"Trait": "High Elf / Assassin",		
+		"ATK": 3,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-E-099": {			
+		"id": "OoW-E-099",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elf Trader",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-E-099.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elf Trader",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Elves"	
+		],		
+		"Card ID": "OoW-E-099",		
+		"Trait": "High Elf / Merchant",		
+		"ATK": 2,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-100": {			
+		"id": "OoW-V-100",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elena",
+				"type": "Leader",
+				"cost": 0,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-100.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elena",		
+		"type": "Leader",		
+		"cost": 0,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-100",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-101": {			
+		"id": "OoW-V-101",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elena, Freshly Transformed Vampire",
+				"type": "Hero – Unit",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-101.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elena, Freshly Transformed Vampire",		
+		"type": "Hero – Unit",		
+		"cost": 6,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-101",		
+		"Trait": "Vampire / Elf / Assassin",		
+		"ATK": 4,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-23": {			
+		"id": "OoW-To-23",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Elena's Thirst",
+				"type": "Token - Aura",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-23.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Elena's Thirst",		
+		"type": "Token - Aura",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-To-23",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-24": {			
+		"id": "OoW-To-24",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Bat Fang",
+				"type": "Token - Order",
+				"cost": 1,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-24.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Bat Fang",		
+		"type": "Token - Order",		
+		"cost": 1,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-To-24",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-25": {			
+		"id": "OoW-To-25",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "One-eyed Bat",
+				"type": "Token - Unit",
+				"cost": 1,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-25.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "One-eyed Bat",		
+		"type": "Token - Unit",		
+		"cost": 1,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-To-25",		
+		"Trait": "Bat",		
+		"ATK": 1,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-102": {			
+		"id": "OoW-V-102",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "I need more blood…",
+				"type": "Order",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-102.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "I need more blood…",		
+		"type": "Order",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-102",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-103": {			
+		"id": "OoW-V-103",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "My wounds are healing so fast…",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-103.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "My wounds are healing so fast…",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-103",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-104": {			
+		"id": "OoW-V-104",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Blood Diffusion !",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-104.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Blood Diffusion !",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-104",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-105": {			
+		"id": "OoW-V-105",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Blood Corruption !",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-105.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Blood Corruption !",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-105",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-106": {			
+		"id": "OoW-V-106",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Screeching Bat",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-106.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Screeching Bat",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-106",		
+		"Trait": "Animal / Bat",		
+		"ATK": 1,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-107": {			
+		"id": "OoW-V-107",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Malevolent Vampire",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-107.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Malevolent Vampire",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-107",		
+		"Trait": "Vampire / Elf / Assassin",		
+		"ATK": 4,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-108": {			
+		"id": "OoW-V-108",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Brainwashed Boar",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-108.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Brainwashed Boar",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-108",		
+		"Trait": "Animal / Twisted",		
+		"ATK": 1,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-109": {			
+		"id": "OoW-V-109",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Bloodthirsty Rat",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-109.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Bloodthirsty Rat",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-109",		
+		"Trait": "Animal / Twisted",		
+		"ATK": 3,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-110": {			
+		"id": "OoW-V-110",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Ominous Vampire",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-110.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Ominous Vampire",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-110",		
+		"Trait": "Vampire / Elf",		
+		"ATK": 5,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-111": {			
+		"id": "OoW-V-111",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Medieval Caster",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-111.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Medieval Caster",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-111",		
+		"Trait": "Vampire / Ranged",		
+		"ATK": 3,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-112": {			
+		"id": "OoW-V-112",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Cloaked Vampire",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-112.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Cloaked Vampire",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-112",		
+		"Trait": "Vampire / Elf",		
+		"ATK": 2,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-113": {			
+		"id": "OoW-V-113",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Mutant Bat",
+				"type": "Unit",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-113.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Mutant Bat",		
+		"type": "Unit",		
+		"cost": 6,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-113",		
+		"Trait": "Bat / Monster",		
+		"ATK": 6,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-114": {			
+		"id": "OoW-V-114",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Maxban and Boring",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-114.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Maxban and Boring",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-114",		
+		"Trait": "Human / Bat",		
+		"ATK": 1,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-115": {			
+		"id": "OoW-V-115",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Orion",
+				"type": "Leader",
+				"cost": 0,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-115.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Orion",		
+		"type": "Leader",		
+		"cost": 0,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-115",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-116": {			
+		"id": "OoW-V-116",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Orion, Genesis Vampire",
+				"type": "Hero – Unit",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-116.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Orion, Genesis Vampire",		
+		"type": "Hero – Unit",		
+		"cost": 8,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-116",		
+		"Trait": "Vampire / High Elf / Legend",		
+		"ATK": 7,		
+		"HP": 7,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-117": {			
+		"id": "OoW-V-117",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "As if you'd stand a chance…",
+				"type": "Order",
+				"cost": 9,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-117.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "As if you'd stand a chance…",		
+		"type": "Order",		
+		"cost": 9,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-117",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-118": {			
+		"id": "OoW-V-118",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Blood Extraction.",
+				"type": "Order",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-118.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Blood Extraction.",		
+		"type": "Order",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-118",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-119": {			
+		"id": "OoW-V-119",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "(Laughing), how pitiful…",
+				"type": "Order",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-119.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "(Laughing), how pitiful…",		
+		"type": "Order",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-119",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-120": {			
+		"id": "OoW-V-120",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "What a beautiful neck…",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-120.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "What a beautiful neck…",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-120",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-121": {			
+		"id": "OoW-V-121",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "My apologies.",
+				"type": "Trap",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-121.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "My apologies.",		
+		"type": "Trap",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-121",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-122": {			
+		"id": "OoW-V-122",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Blood Embodiment.",
+				"type": "Order",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-122.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Blood Embodiment.",		
+		"type": "Order",		
+		"cost": 8,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-122",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-123": {			
+		"id": "OoW-V-123",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Aura Farming? Nah, I'd win.",
+				"type": "Order",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-123.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Aura Farming? Nah, I'd win.",		
+		"type": "Order",		
+		"cost": 6,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-123",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-124": {			
+		"id": "OoW-V-124",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Say hello to the shadow realm.",
+				"type": "Order",
+				"cost": 10,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-124.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Say hello to the shadow realm.",		
+		"type": "Order",		
+		"cost": 10,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-124",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-125": {			
+		"id": "OoW-V-125",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Old Vampire",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-125.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Old Vampire",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-125",		
+		"Trait": "Vampire / High Elf / Wisdom",		
+		"ATK": 2,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-126": {			
+		"id": "OoW-V-126",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Sorcerer of the Night",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-126.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Sorcerer of the Night",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-126",		
+		"Trait": "Vampire / Ranged",		
+		"ATK": 3,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-127": {			
+		"id": "OoW-V-127",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Silverbolt Hunter",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-127.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Silverbolt Hunter",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-127",		
+		"Trait": "Human / Ranged",		
+		"ATK": 2,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-128": {			
+		"id": "OoW-V-128",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Memory Manipulator",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-128.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Memory Manipulator",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-128",		
+		"Trait": "Vampire / Assassin",		
+		"ATK": 2,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-V-129": {			
+		"id": "OoW-V-129",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Scellar Gatekeeper",
+				"type": "Unit",
+				"cost": 7,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-V-129.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Scellar Gatekeeper",		
+		"type": "Unit",		
+		"cost": 7,		
+		"Allegiance": [		
+			"Vampire"	
+		],		
+		"Card ID": "OoW-V-129",		
+		"Trait": "Vampire / Elf",		
+		"ATK": 5,		
+		"HP": 7,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-130": {			
+		"id": "OoW-M-130",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Rakhmur",
+				"type": "Leader",
+				"cost": 0,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-130.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Rakhmur",		
+		"type": "Leader",		
+		"cost": 0,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-130",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-131": {			
+		"id": "OoW-M-131",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Rakhmur, King of Magnits",
+				"type": "Hero – Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-131.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Rakhmur, King of Magnits",		
+		"type": "Hero – Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-131",		
+		"Trait": "Magnit / King / Higher Up",		
+		"ATK": 3,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-26": {			
+		"id": "OoW-To-26",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Subterranean Canon of Fortitude",
+				"type": "Token - Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-26.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Subterranean Canon of Fortitude",		
+		"type": "Token - Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-To-26",		
+		"Trait": "",		
+		"ATK": 1,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-27": {			
+		"id": "OoW-To-27",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Aerial Canon of Reach",
+				"type": "Token - Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-27.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Aerial Canon of Reach",		
+		"type": "Token - Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-To-27",		
+		"Trait": "",		
+		"ATK": 3,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-28": {			
+		"id": "OoW-To-28",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Terrestrial Canon of Doom",
+				"type": "Token - Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-28.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Terrestrial Canon of Doom",		
+		"type": "Token - Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-To-28",		
+		"Trait": "",		
+		"ATK": 2,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-29": {			
+		"id": "OoW-To-29",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Drone",
+				"type": "Token - Unit",
+				"cost": 1,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-29.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Drone",		
+		"type": "Token - Unit",		
+		"cost": 1,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-To-29",		
+		"Trait": "",		
+		"ATK": 1,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-132": {			
+		"id": "OoW-M-132",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Get the S.A.T. out there !",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-132.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Get the S.A.T. out there !",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-132",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-133": {			
+		"id": "OoW-M-133",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Fire !",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-133.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Fire !",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-133",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-134": {			
+		"id": "OoW-M-134",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Regroup !",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-134.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Regroup !",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-134",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-135": {			
+		"id": "OoW-M-135",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Aim right !",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-135.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Aim right !",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-135",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-136": {			
+		"id": "OoW-M-136",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "(Thinking…)",
+				"type": "Aura",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-136.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "(Thinking…)",		
+		"type": "Aura",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-136",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-137": {			
+		"id": "OoW-M-137",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Let's roll it back.",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-137.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Let's roll it back.",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-137",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-138": {			
+		"id": "OoW-M-138",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Dedicated Blacksmith",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-138.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Dedicated Blacksmith",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-138",		
+		"Trait": "Magnit / Blacksmith",		
+		"ATK": 2,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-139": {			
+		"id": "OoW-M-139",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Magnit Engineer",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-139.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Magnit Engineer",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-139",		
+		"Trait": "Magnit / Mechanic",		
+		"ATK": 2,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-140": {			
+		"id": "OoW-M-140",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Drone Operator",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-140.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Drone Operator",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-140",		
+		"Trait": "Magnit / Mechanic",		
+		"ATK": 3,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-141": {			
+		"id": "OoW-M-141",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Heavy Axe Swinger",
+				"type": "Unit",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-141.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Heavy Axe Swinger",		
+		"type": "Unit",		
+		"cost": 6,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-141",		
+		"Trait": "Magnit / Warrior",		
+		"ATK": 4,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-142": {			
+		"id": "OoW-M-142",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Miniatured Magnit",
+				"type": "Unit",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-142.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Miniatured Magnit",		
+		"type": "Unit",		
+		"cost": 6,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-142",		
+		"Trait": "Magnit",		
+		"ATK": 2,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-143": {			
+		"id": "OoW-M-143",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Growth Master",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-143.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Growth Master",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-143",		
+		"Trait": "Magnit",		
+		"ATK": 1,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-144": {			
+		"id": "OoW-M-144",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Dev, the Dev(iant) Dev",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-144.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Dev, the Dev(iant) Dev",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-144",		
+		"Trait": "Magnit / Mechanic / Twisted",		
+		"ATK": 2,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-145": {			
+		"id": "OoW-M-145",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "The Think3r",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-145.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "The Think3r",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-145",		
+		"Trait": "Animated Object",		
+		"ATK": 5,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-146": {			
+		"id": "OoW-M-146",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Jocht",
+				"type": "Leader",
+				"cost": 0,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-146.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Jocht",		
+		"type": "Leader",		
+		"cost": 0,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-146",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-147": {			
+		"id": "OoW-M-147",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Jocht, Evergrowing Magnit",
+				"type": "Hero – Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-147.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Jocht, Evergrowing Magnit",		
+		"type": "Hero – Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-147",		
+		"Trait": "Magnit / Flexer",		
+		"ATK": 0,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-30": {			
+		"id": "OoW-To-30",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Rolling Pin",
+				"type": "Token - Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-30.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Rolling Pin",		
+		"type": "Token - Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-To-30",		
+		"Trait": "Cook",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-148": {			
+		"id": "OoW-M-148",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Just a quick question for you guys.",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-148.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Just a quick question for you guys.",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-148",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-149": {			
+		"id": "OoW-M-149",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Time for the great feast.",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-149.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Time for the great feast.",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-149",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-150": {			
+		"id": "OoW-M-150",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "It's RAW.",
+				"type": "Trap",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-150.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "It's RAW.",		
+		"type": "Trap",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-150",		
+		"Trait": "Cook",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-151": {			
+		"id": "OoW-M-151",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "And the countdown starts in…",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-151.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "And the countdown starts in…",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-151",		
+		"Trait": "Cook",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-152": {			
+		"id": "OoW-M-152",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "A balanced nutrition is key.",
+				"type": "Order",
+				"cost": 7,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-152.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "A balanced nutrition is key.",		
+		"type": "Order",		
+		"cost": 7,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-152",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-153": {			
+		"id": "OoW-M-153",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Cook Apprentice",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-153.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Cook Apprentice",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-153",		
+		"Trait": "Cook",		
+		"ATK": 1,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-154": {			
+		"id": "OoW-M-154",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Scolding Chef",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-154.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Scolding Chef",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-154",		
+		"Trait": "Magnit / Cook",		
+		"ATK": 1,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-155": {			
+		"id": "OoW-M-155",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Experienced Seasoner",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-155.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Experienced Seasoner",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-155",		
+		"Trait": "Magnit / Cook",		
+		"ATK": 2,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-156": {			
+		"id": "OoW-M-156",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Grothmaxxer",
+				"type": "Unit",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-156.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Grothmaxxer",		
+		"type": "Unit",		
+		"cost": 6,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-156",		
+		"Trait": "Magnit / Flexer",		
+		"ATK": 4,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-157": {			
+		"id": "OoW-M-157",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Ultimate Magnit",
+				"type": "Unit",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-157.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Ultimate Magnit",		
+		"type": "Unit",		
+		"cost": 8,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-157",		
+		"Trait": "Magnit",		
+		"ATK": 8,		
+		"HP": 8,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-158": {			
+		"id": "OoW-M-158",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Strong-Armed Gatherer",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-158.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Strong-Armed Gatherer",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-158",		
+		"Trait": "Magnit / Cook",		
+		"ATK": 4,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-159": {			
+		"id": "OoW-M-159",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Sous-chef",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-159.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Sous-chef",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-159",		
+		"Trait": "Magnit / Cook",		
+		"ATK": 2,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-160": {			
+		"id": "OoW-M-160",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Plates Organizer",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-160.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Plates Organizer",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-160",		
+		"Trait": "Cook",		
+		"ATK": 3,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-161": {			
+		"id": "OoW-M-161",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Welcoming Host",
+				"type": "Unit",
+				"cost": 9,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-161.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Welcoming Host",		
+		"type": "Unit",		
+		"cost": 9,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-161",		
+		"Trait": "Magnit",		
+		"ATK": 7,		
+		"HP": 7,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-M-162": {			
+		"id": "OoW-M-162",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Timmy Ritant",
+				"type": "Unit",
+				"cost": 69,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-M-162.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Timmy Ritant",		
+		"type": "Unit",		
+		"cost": 69,		
+		"Allegiance": [		
+			"Magnit"	
+		],		
+		"Card ID": "OoW-M-162",		
+		"Trait": "Magnit / Twisted",		
+		"ATK": 3,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-163": {			
+		"id": "OoW-D1-163",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Nerul",
+				"type": "Leader",
+				"cost": 0,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-163.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Nerul",		
+		"type": "Leader",		
+		"cost": 0,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-163",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-164": {			
+		"id": "OoW-D1-164",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Nerul, Beauty from the Ocean",
+				"type": "Hero – Unit",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-164.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Nerul, Beauty from the Ocean",		
+		"type": "Hero – Unit",		
+		"cost": 8,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-164",		
+		"Trait": "Human / Oceanid / Animal",		
+		"ATK": 5,		
+		"HP": 8,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-31": {			
+		"id": "OoW-To-31",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Oceanid",
+				"type": "Token - Unit",
+				"cost": 1,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-31.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Oceanid",		
+		"type": "Token - Unit",		
+		"cost": 1,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-To-31",		
+		"Trait": "Oceanid",		
+		"ATK": 1,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-165": {			
+		"id": "OoW-D1-165",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Relax, cool down a bit~",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-165.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Relax, cool down a bit~",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-165",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-166": {			
+		"id": "OoW-D1-166",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Chilling…",
+				"type": "Order",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-166.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Chilling…",		
+		"type": "Order",		
+		"cost": 3,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-166",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-167": {			
+		"id": "OoW-D1-167",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Acupuncture can also be done this way.",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-167.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Acupuncture can also be done this way.",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-167",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-168": {			
+		"id": "OoW-D1-168",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Ice Magic : Rain of Ice-Shards",
+				"type": "Order",
+				"cost": 9,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-168.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Ice Magic : Rain of Ice-Shards",		
+		"type": "Order",		
+		"cost": 9,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-168",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-169": {			
+		"id": "OoW-D1-169",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Insigna of the Oceanids",
+				"type": "Seal",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-169.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Insigna of the Oceanids",		
+		"type": "Seal",		
+		"cost": 4,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-169",		
+		"Trait": "Oceanid",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-170": {			
+		"id": "OoW-D1-170",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Oceanid of the Corals",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-170.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Oceanid of the Corals",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-170",		
+		"Trait": "Human / Oceanid / Animal",		
+		"ATK": 2,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-171": {			
+		"id": "OoW-D1-171",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Urchin Master",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-171.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Urchin Master",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-171",		
+		"Trait": "Human / Animal / Fish",		
+		"ATK": 3,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-172": {			
+		"id": "OoW-D1-172",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Ice-Sharded Hedgehog",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-172.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Ice-Sharded Hedgehog",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-172",		
+		"Trait": "Human / Animal",		
+		"ATK": 3,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-173": {			
+		"id": "OoW-D1-173",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Oceanid Caretaker",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-173.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Oceanid Caretaker",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-173",		
+		"Trait": "Human / Oceanid / Animal",		
+		"ATK": 2,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-174": {			
+		"id": "OoW-D1-174",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Ocean Man",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-174.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Ocean Man",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-174",		
+		"Trait": "Human / Animal",		
+		"ATK": 0,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-175": {			
+		"id": "OoW-D1-175",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Orphan Shark",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-175.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Orphan Shark",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-175",		
+		"Trait": "Human / Animal / Shark",		
+		"ATK": 1,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-176": {			
+		"id": "OoW-D1-176",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Fish-Man Mecernary",
+				"type": "Unit",
+				"cost": 7,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-176.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Fish-Man Mecernary",		
+		"type": "Unit",		
+		"cost": 7,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-176",		
+		"Trait": "Human / Animal / Fish",		
+		"ATK": 5,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-177": {			
+		"id": "OoW-D1-177",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Ice-covered Oceanid's domain",
+				"type": "Aura",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-177.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Ice-covered Oceanid's domain",		
+		"type": "Aura",		
+		"cost": 6,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-177",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-178": {			
+		"id": "OoW-D1-178",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Fisherman's Luck Charm",
+				"type": "Seal",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-178.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Fisherman's Luck Charm",		
+		"type": "Seal",		
+		"cost": 3,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-178",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-179": {			
+		"id": "OoW-D1-179",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Galor",
+				"type": "Leader",
+				"cost": 0,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-179.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Galor",		
+		"type": "Leader",		
+		"cost": 0,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-179",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-180": {			
+		"id": "OoW-D1-180",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Galor, Wilderness Hero",
+				"type": "Hero – Unit",
+				"cost": 7,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-180.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Galor, Wilderness Hero",		
+		"type": "Hero – Unit",		
+		"cost": 7,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-180",		
+		"Trait": "Human / Animal / Feline",		
+		"ATK": 4,		
+		"HP": 7,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-32": {			
+		"id": "OoW-To-32",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Bewitching Savanna",
+				"type": "Token - Aura",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-32.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Bewitching Savanna",		
+		"type": "Token - Aura",		
+		"cost": 3,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-To-32",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-33": {			
+		"id": "OoW-To-33",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Galor's Savanna",
+				"type": "Token - Aura",
+				"cost": 7,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-33.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Galor's Savanna",		
+		"type": "Token - Aura",		
+		"cost": 7,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-To-33",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-34": {			
+		"id": "OoW-To-34",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Oasis Pond",
+				"type": "Token - Order",
+				"cost": 1,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-34.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Oasis Pond",		
+		"type": "Token - Order",		
+		"cost": 1,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-To-34",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-To-35": {			
+		"id": "OoW-To-35",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Hyena",
+				"type": "Token - Unit",
+				"cost": 1,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-To-35.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Hyena",		
+		"type": "Token - Unit",		
+		"cost": 1,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-To-35",		
+		"Trait": "Human / Animal",		
+		"ATK": 0,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-181": {			
+		"id": "OoW-D1-181",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Hear the call from the wild.",
+				"type": "Order",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-181.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Hear the call from the wild.",		
+		"type": "Order",		
+		"cost": 2,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-181",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-182": {			
+		"id": "OoW-D1-182",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Might makes right.",
+				"type": "Order",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-182.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Might makes right.",		
+		"type": "Order",		
+		"cost": 8,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-182",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-183": {			
+		"id": "OoW-D1-183",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Anti-Intruder Trap",
+				"type": "Trap",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-183.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Anti-Intruder Trap",		
+		"type": "Trap",		
+		"cost": 3,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-183",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-184": {			
+		"id": "OoW-D1-184",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Stamped formation, charge!",
+				"type": "Order",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-184.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Stamped formation, charge!",		
+		"type": "Order",		
+		"cost": 4,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-184",		
+		"Trait": "",		
+		"ATK": 0,		
+		"HP": 0,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-185": {			
+		"id": "OoW-D1-185",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Chilling Capybara",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-185.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Chilling Capybara",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-185",		
+		"Trait": "Human / Animal",		
+		"ATK": 1,		
+		"HP": 1,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-186": {			
+		"id": "OoW-D1-186",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Meerkat Scholar",
+				"type": "Unit",
+				"cost": 3,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-186.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Meerkat Scholar",		
+		"type": "Unit",		
+		"cost": 3,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-186",		
+		"Trait": "Human / Animal",		
+		"ATK": 1,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-187": {			
+		"id": "OoW-D1-187",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Hyena Pack",
+				"type": "Unit",
+				"cost": 6,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-187.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Hyena Pack",		
+		"type": "Unit",		
+		"cost": 6,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-187",		
+		"Trait": "Human / Animal",		
+		"ATK": 0,		
+		"HP": 2,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-188": {			
+		"id": "OoW-D1-188",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Caracal made of Flames and Ice",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-188.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Caracal made of Flames and Ice",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-188",		
+		"Trait": "Human / Animal / Feline",		
+		"ATK": 3,		
+		"HP": 5,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-189": {			
+		"id": "OoW-D1-189",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Mountain Elephant",
+				"type": "Unit",
+				"cost": 10,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-189.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Mountain Elephant",		
+		"type": "Unit",		
+		"cost": 10,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-189",		
+		"Trait": "Human / Animal",		
+		"ATK": 0,		
+		"HP": 15,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-190": {			
+		"id": "OoW-D1-190",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Multi-Headed Hyena",
+				"type": "Unit",
+				"cost": 8,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-190.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Multi-Headed Hyena",		
+		"type": "Unit",		
+		"cost": 8,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-190",		
+		"Trait": "Human / Monster / Animal",		
+		"ATK": 4,		
+		"HP": 7,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-191": {			
+		"id": "OoW-D1-191",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Cloaked Monk",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-191.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Cloaked Monk",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-191",		
+		"Trait": "Human / Monster / Dragonborn",		
+		"ATK": 3,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-192": {			
+		"id": "OoW-D1-192",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Man-Tortoise",
+				"type": "Unit",
+				"cost": 2,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-192.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Man-Tortoise",		
+		"type": "Unit",		
+		"cost": 2,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-192",		
+		"Trait": "Human / Animal",		
+		"ATK": 1,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-193": {			
+		"id": "OoW-D1-193",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Taunting Buffalo",
+				"type": "Unit",
+				"cost": 5,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-193.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Taunting Buffalo",		
+		"type": "Unit",		
+		"cost": 5,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-193",		
+		"Trait": "Human / Animal",		
+		"ATK": 0,		
+		"HP": 4,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	},			
+	"OoW-D1-194": {			
+		"id": "OoW-D1-194",		
+		"isToken": false,		
+		"face": {		
+			"front": {	
+				"name" : "Swift Leopard",
+				"type": "Unit",
+				"cost": 4,
+				"image": "https://zerashi351.github.io/Total-War-TCG/Cartes/OoW-D1-194.png",
+				"isHorizontal": false
+			}	
+		},		
+		"Card Name" : "Swift Leopard",		
+		"type": "Unit",		
+		"cost": 4,		
+		"Allegiance": [		
+			"D-Humans 1"	
+		],		
+		"Card ID": "OoW-D1-194",		
+		"Trait": "Human / Animal / Feline",		
+		"ATK": 2,		
+		"HP": 3,		
+		"_legal": {		
+			"CLA": 4	
+		}		
+	}			
+}				
