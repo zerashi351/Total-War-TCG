@@ -1,6 +1,6 @@
 {
   "name": "Total War TCG",
-  "menuBackgroundImage": "https://zerashi351.github.io/Total-War-TCG/Image TCG.png",
+  "menuBackgroundImage": "https://zerashi351.github.io/Total-War-TCG/Image%20TCG.png",
   "defaultRessources": {
     "backgrounds": [],
     "decksUrl": ""
@@ -22,9 +22,18 @@
       {
         "title": "Classic",
         "gameplay": "",
-		"legalityCode": "CLA"
+		"legalityCode": "CLA",
+		"deckRuleset": "Classic"
       }
-    ]
+    ],
+	"deckRulesets": {
+		"Classic": {
+			"general": {
+				"min": 40,
+				"maxPerCard": 3
+			}
+		}
+	}
   },
   "gameplay": {
     "Classic": {
