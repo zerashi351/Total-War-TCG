@@ -14,7 +14,6 @@
   "deckBuilding": {
     "mainFilters": [
       "Card ID",
-      "Card Name",
       "Trait",
       "Allegiance"
     ],

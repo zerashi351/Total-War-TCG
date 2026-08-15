@@ -11,7 +11,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Cogno",		
+		"name" : "Cogno",		
 		"type": "Leader",		
 		"cost": 0,		
 		"Allegiance": [		
@@ -37,7 +37,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Cogno, the Righteous",		
+		"name" : "Cogno, the Righteous",		
 		"type": "Hero – Unit",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -63,7 +63,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Vanguard",		
+		"name" : "Vanguard",		
 		"type": "Token – Unit",		
 		"cost": 1,		
 		"Allegiance": [		
@@ -89,7 +89,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Fencer",		
+		"name" : "Fencer",		
 		"type": "Token – Unit",		
 		"cost": 1,		
 		"Allegiance": [		
@@ -115,7 +115,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Rider",		
+		"name" : "Rider",		
 		"type": "Token – Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -141,7 +141,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Shielder",		
+		"name" : "Shielder",		
 		"type": "Token – Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -167,7 +167,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Commander",		
+		"name" : "Commander",		
 		"type": "Token – Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -193,7 +193,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Assemble !",		
+		"name" : "Assemble !",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -219,7 +219,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Defend !",		
+		"name" : "Defend !",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -245,7 +245,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Break Through !",		
+		"name" : "Break Through !",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -271,7 +271,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Commander, assist me !",		
+		"name" : "Commander, assist me !",		
 		"type": "Order",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -297,7 +297,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Everyone, to your posts !",		
+		"name" : "Everyone, to your posts !",		
 		"type": "Order",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -323,7 +323,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Old Colonel",		
+		"name" : "Old Colonel",		
 		"type": "Unit",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -349,7 +349,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Chauvinistic Knight",		
+		"name" : "Chauvinistic Knight",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -375,7 +375,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Cavalier in Shining Armor",		
+		"name" : "Cavalier in Shining Armor",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -401,7 +401,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Sweeping Horseman",		
+		"name" : "Sweeping Horseman",		
 		"type": "Unit",		
 		"cost": 7,		
 		"Allegiance": [		
@@ -427,7 +427,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Newly Appointed Captain",		
+		"name" : "Newly Appointed Captain",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -453,7 +453,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Defending Archer",		
+		"name" : "Defending Archer",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -479,7 +479,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "General on the brink of death",		
+		"name" : "General on the brink of death",		
 		"type": "Unit",		
 		"cost": 10,		
 		"Allegiance": [		
@@ -505,7 +505,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Banner-bearer",		
+		"name" : "Banner-bearer",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -531,7 +531,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Wise Recruiter",		
+		"name" : "Wise Recruiter",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -557,7 +557,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Helio",		
+		"name" : "Helio",		
 		"type": "Leader",		
 		"cost": 0,		
 		"Allegiance": [		
@@ -583,7 +583,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Helio, Godsworn Paladin",		
+		"name" : "Helio, Godsworn Paladin",		
 		"type": "Hero – Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -609,7 +609,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Joined Prayers",		
+		"name" : "Joined Prayers",		
 		"type": "Token - Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -635,7 +635,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Paladin's Aura",		
+		"name" : "Paladin's Aura",		
 		"type": "Token - Aura",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -661,7 +661,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Archangel Michael",		
+		"name" : "Archangel Michael",		
 		"type": "Token - Unit",		
 		"cost": 10,		
 		"Allegiance": [		
@@ -687,7 +687,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "May the light guide us.",		
+		"name" : "May the light guide us.",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -713,7 +713,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Ha! Nobody expects the inquisition!",		
+		"name" : "Ha! Nobody expects the inquisition!",		
 		"type": "Trap",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -739,7 +739,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Fellow believers, join our cause.",		
+		"name" : "Fellow believers, join our cause.",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -765,7 +765,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "A prayer to our Savior...",		
+		"name" : "A prayer to our Savior...",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -791,7 +791,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Miracle Witness.",		
+		"name" : "Miracle Witness.",		
 		"type": "Order",		
 		"cost": 10,		
 		"Allegiance": [		
@@ -817,7 +817,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "White Paladin",		
+		"name" : "White Paladin",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -843,7 +843,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Exorcising Priest",		
+		"name" : "Exorcising Priest",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -869,7 +869,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Galvanized Crusader",		
+		"name" : "Galvanized Crusader",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -895,7 +895,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Stored Spell of Healing",		
+		"name" : "Stored Spell of Healing",		
 		"type": "Trap",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -921,7 +921,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Young Nun",		
+		"name" : "Young Nun",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -947,7 +947,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Kind Bishop",		
+		"name" : "Kind Bishop",		
 		"type": "Unit",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -973,7 +973,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Frontline Nurse",		
+		"name" : "Frontline Nurse",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -999,7 +999,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Faithful Devotee",		
+		"name" : "Faithful Devotee",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -1025,7 +1025,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Commanding Cardinal",		
+		"name" : "Commanding Cardinal",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -1051,7 +1051,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Maria",		
+		"name" : "Maria",		
 		"type": "Leader",		
 		"cost": 0,		
 		"Allegiance": [		
@@ -1077,7 +1077,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Maria, Independent Witch of Duality",		
+		"name" : "Maria, Independent Witch of Duality",		
 		"type": "Hero – Unit",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -1103,7 +1103,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Maria, Shy Witch of Scourge",		
+		"name" : "Maria, Shy Witch of Scourge",		
 		"type": "Token – Aura",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -1129,7 +1129,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Maria, Haughty Witch of Pyromania",		
+		"name" : "Maria, Haughty Witch of Pyromania",		
 		"type": "Token – Aura",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -1155,7 +1155,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Maria, Ultimate Witch of Instant Death",		
+		"name" : "Maria, Ultimate Witch of Instant Death",		
 		"type": "Token – Unit",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -1181,7 +1181,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Maria's Fanatic",		
+		"name" : "Maria's Fanatic",		
 		"type": "Token – Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -1207,7 +1207,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Maria's Human Shield",		
+		"name" : "Maria's Human Shield",		
 		"type": "Token – Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -1233,7 +1233,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Have a little taste of this !",		
+		"name" : "Have a little taste of this !",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -1259,7 +1259,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Go... my precious fans !",		
+		"name" : "Go... my precious fans !",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -1285,7 +1285,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Protect me, trash !",		
+		"name" : "Protect me, trash !",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -1311,7 +1311,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Burn !",		
+		"name" : "Burn !",		
 		"type": "Order",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -1337,7 +1337,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "This might hurt... S-sorry...",		
+		"name" : "This might hurt... S-sorry...",		
 		"type": "Order",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -1363,7 +1363,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Fire Blast !",		
+		"name" : "Fire Blast !",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -1389,7 +1389,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Poison... s-steam !",		
+		"name" : "Poison... s-steam !",		
 		"type": "Order",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -1415,7 +1415,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "It's over, you lost !",		
+		"name" : "It's over, you lost !",		
 		"type": "Order",		
 		"cost": 9,		
 		"Allegiance": [		
@@ -1441,7 +1441,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Little Witch of Flames",		
+		"name" : "Little Witch of Flames",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -1467,7 +1467,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "The Man with the Flamethrower",		
+		"name" : "The Man with the Flamethrower",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -1493,7 +1493,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Poisoning Alchemist",		
+		"name" : "Poisoning Alchemist",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -1519,7 +1519,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Malicious Doctor",		
+		"name" : "Malicious Doctor",		
 		"type": "Unit",		
 		"cost": 7,		
 		"Allegiance": [		
@@ -1545,7 +1545,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Chaos Enjoyer",		
+		"name" : "Chaos Enjoyer",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -1571,7 +1571,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Arnold",		
+		"name" : "Arnold",		
 		"type": "Leader",		
 		"cost": 0,		
 		"Allegiance": [		
@@ -1597,7 +1597,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Arnold, Necromancer of the Pillar",		
+		"name" : "Arnold, Necromancer of the Pillar",		
 		"type": "Hero – Unit",		
 		"cost": 7,		
 		"Allegiance": [		
@@ -1623,7 +1623,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Zombie",		
+		"name" : "Zombie",		
 		"type": "Token – Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -1649,7 +1649,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Skeleton",		
+		"name" : "Skeleton",		
 		"type": "Token – Unit",		
 		"cost": 1,		
 		"Allegiance": [		
@@ -1675,7 +1675,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Moving Corpse",		
+		"name" : "Moving Corpse",		
 		"type": "Token – Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -1701,7 +1701,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Rise.",		
+		"name" : "Rise.",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -1727,7 +1727,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "March forth.",		
+		"name" : "March forth.",		
 		"type": "Order",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -1753,7 +1753,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Malicious Pot of Soul Gathering",		
+		"name" : "Malicious Pot of Soul Gathering",		
 		"type": "Trap",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -1779,7 +1779,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Join us.",		
+		"name" : "Join us.",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -1805,7 +1805,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Get up.",		
+		"name" : "Get up.",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -1831,7 +1831,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Fear the lacking ones.",		
+		"name" : "Fear the lacking ones.",		
 		"type": "Order",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -1857,7 +1857,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Novice Necromancer",		
+		"name" : "Novice Necromancer",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -1883,7 +1883,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Headless Horseman",		
+		"name" : "Headless Horseman",		
 		"type": "Unit",		
 		"cost": 7,		
 		"Allegiance": [		
@@ -1909,7 +1909,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Maidenless Tarnished",		
+		"name" : "Maidenless Tarnished",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -1935,7 +1935,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Grieving Painter",		
+		"name" : "Grieving Painter",		
 		"type": "Unit",		
 		"cost": 11,		
 		"Allegiance": [		
@@ -1961,7 +1961,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Plague-Inflicting Ghoul",		
+		"name" : "Plague-Inflicting Ghoul",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -1987,7 +1987,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "General Forced back into War",		
+		"name" : "General Forced back into War",		
 		"type": "Unit",		
 		"cost": 10,		
 		"Allegiance": [		
@@ -2013,7 +2013,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Android Necromancer",		
+		"name" : "Android Necromancer",		
 		"type": "Unit",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -2039,7 +2039,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Cursed Corpse of Immortality",		
+		"name" : "Cursed Corpse of Immortality",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -2065,7 +2065,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Soul-Feeding Addict",		
+		"name" : "Soul-Feeding Addict",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -2091,7 +2091,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Afro Skeleton",		
+		"name" : "Afro Skeleton",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -2117,7 +2117,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Zhena",		
+		"name" : "Zhena",		
 		"type": "Leader",		
 		"cost": 0,		
 		"Allegiance": [		
@@ -2143,7 +2143,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Zhena, Nature's Enchantress",		
+		"name" : "Zhena, Nature's Enchantress",		
 		"type": "Hero – Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -2169,7 +2169,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Forest's Boon",		
+		"name" : "Forest's Boon",		
 		"type": "Token - Seal",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -2195,7 +2195,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Forest's Malediction",		
+		"name" : "Forest's Malediction",		
 		"type": "Token - Seal",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -2221,7 +2221,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Forest's Decree",		
+		"name" : "Forest's Decree",		
 		"type": "Token - Seal",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -2247,7 +2247,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Nature's Seal : Blessing.",		
+		"name" : "Nature's Seal : Blessing.",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -2273,7 +2273,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Nature's Seal : Curse.",		
+		"name" : "Nature's Seal : Curse.",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -2299,7 +2299,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Nature's Seal : Judgment.",		
+		"name" : "Nature's Seal : Judgment.",		
 		"type": "Order",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -2325,7 +2325,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "You can stare wherever you want~",		
+		"name" : "You can stare wherever you want~",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -2351,7 +2351,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "But don't stare too long, or else…",		
+		"name" : "But don't stare too long, or else…",		
 		"type": "Order",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -2377,7 +2377,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Eyes up here~",		
+		"name" : "Eyes up here~",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -2403,7 +2403,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Gimme that~",		
+		"name" : "Gimme that~",		
 		"type": "Order",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -2429,7 +2429,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "And... Up you go~",		
+		"name" : "And... Up you go~",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -2455,7 +2455,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Binding Elf",		
+		"name" : "Binding Elf",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -2481,7 +2481,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Zhena's Apprentice",		
+		"name" : "Zhena's Apprentice",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -2507,7 +2507,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Nature's Protector",		
+		"name" : "Nature's Protector",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -2533,7 +2533,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Heavy Lifting Elf",		
+		"name" : "Heavy Lifting Elf",		
 		"type": "Unit",		
 		"cost": 9,		
 		"Allegiance": [		
@@ -2559,7 +2559,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elf Illusionist",		
+		"name" : "Elf Illusionist",		
 		"type": "Unit",		
 		"cost": 7,		
 		"Allegiance": [		
@@ -2585,7 +2585,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elf of Slowness",		
+		"name" : "Elf of Slowness",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -2611,7 +2611,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Sabotaging Elf",		
+		"name" : "Sabotaging Elf",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -2637,7 +2637,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Nastasia",		
+		"name" : "Nastasia",		
 		"type": "Leader",		
 		"cost": 0,		
 		"Allegiance": [		
@@ -2663,7 +2663,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Nastasia, Elf Queen",		
+		"name" : "Nastasia, Elf Queen",		
 		"type": "Hero – Unit",		
 		"cost": 7,		
 		"Allegiance": [		
@@ -2689,7 +2689,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Verdant Legacy",		
+		"name" : "Verdant Legacy",		
 		"type": "Token - Seal",		
 		"cost": 1,		
 		"Allegiance": [		
@@ -2715,7 +2715,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Verdant Treatment",		
+		"name" : "Verdant Treatment",		
 		"type": "Token - Order",		
 		"cost": 1,		
 		"Allegiance": [		
@@ -2741,7 +2741,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Royal Knowledge",		
+		"name" : "Royal Knowledge",		
 		"type": "Token - Seal",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -2767,7 +2767,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "You'll regret defying us.",		
+		"name" : "You'll regret defying us.",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -2793,7 +2793,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Show these lowlifes our power.",		
+		"name" : "Show these lowlifes our power.",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -2819,7 +2819,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Face the consequences.",		
+		"name" : "Face the consequences.",		
 		"type": "Order",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -2845,7 +2845,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Feel the elven superiority.",		
+		"name" : "Feel the elven superiority.",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -2871,7 +2871,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elven nobility, at it's finest.",		
+		"name" : "Elven nobility, at it's finest.",		
 		"type": "Order",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -2897,7 +2897,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elf Lecturer",		
+		"name" : "Elf Lecturer",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -2923,7 +2923,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Noble Elf",		
+		"name" : "Noble Elf",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -2949,7 +2949,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elite Archer",		
+		"name" : "Elite Archer",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -2975,7 +2975,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elf Researcher",		
+		"name" : "Elf Researcher",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -3001,7 +3001,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elf Scholar",		
+		"name" : "Elf Scholar",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -3027,7 +3027,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Venerable Elder",		
+		"name" : "Venerable Elder",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -3053,7 +3053,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elf Administrator",		
+		"name" : "Elf Administrator",		
 		"type": "Unit",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -3079,7 +3079,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elf Doctor",		
+		"name" : "Elf Doctor",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -3105,7 +3105,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Royal Scout",		
+		"name" : "Royal Scout",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -3131,7 +3131,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elf Trader",		
+		"name" : "Elf Trader",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -3157,7 +3157,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elena",		
+		"name" : "Elena",		
 		"type": "Leader",		
 		"cost": 0,		
 		"Allegiance": [		
@@ -3183,7 +3183,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elena, Freshly Transformed Vampire",		
+		"name" : "Elena, Freshly Transformed Vampire",		
 		"type": "Hero – Unit",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -3209,7 +3209,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Elena's Thirst",		
+		"name" : "Elena's Thirst",		
 		"type": "Token - Aura",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -3235,7 +3235,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Bat Fang",		
+		"name" : "Bat Fang",		
 		"type": "Token - Order",		
 		"cost": 1,		
 		"Allegiance": [		
@@ -3261,7 +3261,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "One-eyed Bat",		
+		"name" : "One-eyed Bat",		
 		"type": "Token - Unit",		
 		"cost": 1,		
 		"Allegiance": [		
@@ -3287,7 +3287,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "I need more blood…",		
+		"name" : "I need more blood…",		
 		"type": "Order",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -3313,7 +3313,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "My wounds are healing so fast…",		
+		"name" : "My wounds are healing so fast…",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -3339,7 +3339,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Blood Diffusion !",		
+		"name" : "Blood Diffusion !",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -3365,7 +3365,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Blood Corruption !",		
+		"name" : "Blood Corruption !",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -3391,7 +3391,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Screeching Bat",		
+		"name" : "Screeching Bat",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -3417,7 +3417,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Malevolent Vampire",		
+		"name" : "Malevolent Vampire",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -3443,7 +3443,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Brainwashed Boar",		
+		"name" : "Brainwashed Boar",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -3469,7 +3469,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Bloodthirsty Rat",		
+		"name" : "Bloodthirsty Rat",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -3495,7 +3495,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Ominous Vampire",		
+		"name" : "Ominous Vampire",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -3521,7 +3521,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Medieval Caster",		
+		"name" : "Medieval Caster",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -3547,7 +3547,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Cloaked Vampire",		
+		"name" : "Cloaked Vampire",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -3573,7 +3573,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Mutant Bat",		
+		"name" : "Mutant Bat",		
 		"type": "Unit",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -3599,7 +3599,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Maxban and Boring",		
+		"name" : "Maxban and Boring",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -3625,7 +3625,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Orion",		
+		"name" : "Orion",		
 		"type": "Leader",		
 		"cost": 0,		
 		"Allegiance": [		
@@ -3651,7 +3651,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Orion, Genesis Vampire",		
+		"name" : "Orion, Genesis Vampire",		
 		"type": "Hero – Unit",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -3677,7 +3677,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "As if you'd stand a chance…",		
+		"name" : "As if you'd stand a chance…",		
 		"type": "Order",		
 		"cost": 9,		
 		"Allegiance": [		
@@ -3703,7 +3703,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Blood Extraction.",		
+		"name" : "Blood Extraction.",		
 		"type": "Order",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -3729,7 +3729,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "(Laughing), how pitiful…",		
+		"name" : "(Laughing), how pitiful…",		
 		"type": "Order",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -3755,7 +3755,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "What a beautiful neck…",		
+		"name" : "What a beautiful neck…",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -3781,7 +3781,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "My apologies.",		
+		"name" : "My apologies.",		
 		"type": "Trap",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -3807,7 +3807,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Blood Embodiment.",		
+		"name" : "Blood Embodiment.",		
 		"type": "Order",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -3833,7 +3833,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Aura Farming? Nah, I'd win.",		
+		"name" : "Aura Farming? Nah, I'd win.",		
 		"type": "Order",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -3859,7 +3859,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Say hello to the shadow realm.",		
+		"name" : "Say hello to the shadow realm.",		
 		"type": "Order",		
 		"cost": 10,		
 		"Allegiance": [		
@@ -3885,7 +3885,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Old Vampire",		
+		"name" : "Old Vampire",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -3911,7 +3911,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Sorcerer of the Night",		
+		"name" : "Sorcerer of the Night",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -3937,7 +3937,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Silverbolt Hunter",		
+		"name" : "Silverbolt Hunter",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -3963,7 +3963,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Memory Manipulator",		
+		"name" : "Memory Manipulator",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -3989,7 +3989,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Scellar Gatekeeper",		
+		"name" : "Scellar Gatekeeper",		
 		"type": "Unit",		
 		"cost": 7,		
 		"Allegiance": [		
@@ -4015,7 +4015,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Rakhmur",		
+		"name" : "Rakhmur",		
 		"type": "Leader",		
 		"cost": 0,		
 		"Allegiance": [		
@@ -4041,7 +4041,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Rakhmur, King of Magnits",		
+		"name" : "Rakhmur, King of Magnits",		
 		"type": "Hero – Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -4067,7 +4067,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Subterranean Canon of Fortitude",		
+		"name" : "Subterranean Canon of Fortitude",		
 		"type": "Token - Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4093,7 +4093,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Aerial Canon of Reach",		
+		"name" : "Aerial Canon of Reach",		
 		"type": "Token - Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4119,7 +4119,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Terrestrial Canon of Doom",		
+		"name" : "Terrestrial Canon of Doom",		
 		"type": "Token - Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4145,7 +4145,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Drone",		
+		"name" : "Drone",		
 		"type": "Token - Unit",		
 		"cost": 1,		
 		"Allegiance": [		
@@ -4171,7 +4171,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Get the S.A.T. out there !",		
+		"name" : "Get the S.A.T. out there !",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -4197,7 +4197,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Fire !",		
+		"name" : "Fire !",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4223,7 +4223,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Regroup !",		
+		"name" : "Regroup !",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4249,7 +4249,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Aim right !",		
+		"name" : "Aim right !",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4275,7 +4275,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "(Thinking…)",		
+		"name" : "(Thinking…)",		
 		"type": "Aura",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -4301,7 +4301,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Let's roll it back.",		
+		"name" : "Let's roll it back.",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4327,7 +4327,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Dedicated Blacksmith",		
+		"name" : "Dedicated Blacksmith",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -4353,7 +4353,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Magnit Engineer",		
+		"name" : "Magnit Engineer",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4379,7 +4379,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Drone Operator",		
+		"name" : "Drone Operator",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -4405,7 +4405,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Heavy Axe Swinger",		
+		"name" : "Heavy Axe Swinger",		
 		"type": "Unit",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -4431,7 +4431,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Miniatured Magnit",		
+		"name" : "Miniatured Magnit",		
 		"type": "Unit",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -4457,7 +4457,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Growth Master",		
+		"name" : "Growth Master",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -4483,7 +4483,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Dev, the Dev(iant) Dev",		
+		"name" : "Dev, the Dev(iant) Dev",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -4509,7 +4509,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "The Think3r",		
+		"name" : "The Think3r",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -4535,7 +4535,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Jocht",		
+		"name" : "Jocht",		
 		"type": "Leader",		
 		"cost": 0,		
 		"Allegiance": [		
@@ -4561,7 +4561,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Jocht, Evergrowing Magnit",		
+		"name" : "Jocht, Evergrowing Magnit",		
 		"type": "Hero – Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4587,7 +4587,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Rolling Pin",		
+		"name" : "Rolling Pin",		
 		"type": "Token - Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4613,7 +4613,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Just a quick question for you guys.",		
+		"name" : "Just a quick question for you guys.",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -4639,7 +4639,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Time for the great feast.",		
+		"name" : "Time for the great feast.",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4665,7 +4665,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "It's RAW.",		
+		"name" : "It's RAW.",		
 		"type": "Trap",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -4691,7 +4691,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "And the countdown starts in…",		
+		"name" : "And the countdown starts in…",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4717,7 +4717,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "A balanced nutrition is key.",		
+		"name" : "A balanced nutrition is key.",		
 		"type": "Order",		
 		"cost": 7,		
 		"Allegiance": [		
@@ -4743,7 +4743,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Cook Apprentice",		
+		"name" : "Cook Apprentice",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -4769,7 +4769,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Scolding Chef",		
+		"name" : "Scolding Chef",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -4795,7 +4795,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Experienced Seasoner",		
+		"name" : "Experienced Seasoner",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -4821,7 +4821,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Grothmaxxer",		
+		"name" : "Grothmaxxer",		
 		"type": "Unit",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -4847,7 +4847,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Ultimate Magnit",		
+		"name" : "Ultimate Magnit",		
 		"type": "Unit",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -4873,7 +4873,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Strong-Armed Gatherer",		
+		"name" : "Strong-Armed Gatherer",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -4899,7 +4899,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Sous-chef",		
+		"name" : "Sous-chef",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -4925,7 +4925,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Plates Organizer",		
+		"name" : "Plates Organizer",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -4951,7 +4951,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Welcoming Host",		
+		"name" : "Welcoming Host",		
 		"type": "Unit",		
 		"cost": 9,		
 		"Allegiance": [		
@@ -4977,7 +4977,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Timmy Ritant",		
+		"name" : "Timmy Ritant",		
 		"type": "Unit",		
 		"cost": 69,		
 		"Allegiance": [		
@@ -5003,7 +5003,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Nerul",		
+		"name" : "Nerul",		
 		"type": "Leader",		
 		"cost": 0,		
 		"Allegiance": [		
@@ -5029,7 +5029,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Nerul, Beauty from the Ocean",		
+		"name" : "Nerul, Beauty from the Ocean",		
 		"type": "Hero – Unit",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -5055,7 +5055,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Oceanid",		
+		"name" : "Oceanid",		
 		"type": "Token - Unit",		
 		"cost": 1,		
 		"Allegiance": [		
@@ -5081,7 +5081,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Relax, cool down a bit~",		
+		"name" : "Relax, cool down a bit~",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -5107,7 +5107,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Chilling…",		
+		"name" : "Chilling…",		
 		"type": "Order",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -5133,7 +5133,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Acupuncture can also be done this way.",		
+		"name" : "Acupuncture can also be done this way.",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -5159,7 +5159,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Ice Magic : Rain of Ice-Shards",		
+		"name" : "Ice Magic : Rain of Ice-Shards",		
 		"type": "Order",		
 		"cost": 9,		
 		"Allegiance": [		
@@ -5185,7 +5185,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Insigna of the Oceanids",		
+		"name" : "Insigna of the Oceanids",		
 		"type": "Seal",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -5211,7 +5211,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Oceanid of the Corals",		
+		"name" : "Oceanid of the Corals",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -5237,7 +5237,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Urchin Master",		
+		"name" : "Urchin Master",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -5263,7 +5263,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Ice-Sharded Hedgehog",		
+		"name" : "Ice-Sharded Hedgehog",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -5289,7 +5289,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Oceanid Caretaker",		
+		"name" : "Oceanid Caretaker",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -5315,7 +5315,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Ocean Man",		
+		"name" : "Ocean Man",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -5341,7 +5341,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Orphan Shark",		
+		"name" : "Orphan Shark",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -5367,7 +5367,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Fish-Man Mecernary",		
+		"name" : "Fish-Man Mecernary",		
 		"type": "Unit",		
 		"cost": 7,		
 		"Allegiance": [		
@@ -5393,7 +5393,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Ice-covered Oceanid's domain",		
+		"name" : "Ice-covered Oceanid's domain",		
 		"type": "Aura",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -5419,7 +5419,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Fisherman's Luck Charm",		
+		"name" : "Fisherman's Luck Charm",		
 		"type": "Seal",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -5445,7 +5445,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Galor",		
+		"name" : "Galor",		
 		"type": "Leader",		
 		"cost": 0,		
 		"Allegiance": [		
@@ -5471,7 +5471,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Galor, Wilderness Hero",		
+		"name" : "Galor, Wilderness Hero",		
 		"type": "Hero – Unit",		
 		"cost": 7,		
 		"Allegiance": [		
@@ -5497,7 +5497,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Bewitching Savanna",		
+		"name" : "Bewitching Savanna",		
 		"type": "Token - Aura",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -5523,7 +5523,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Galor's Savanna",		
+		"name" : "Galor's Savanna",		
 		"type": "Token - Aura",		
 		"cost": 7,		
 		"Allegiance": [		
@@ -5549,7 +5549,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Oasis Pond",		
+		"name" : "Oasis Pond",		
 		"type": "Token - Order",		
 		"cost": 1,		
 		"Allegiance": [		
@@ -5575,7 +5575,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Hyena",		
+		"name" : "Hyena",		
 		"type": "Token - Unit",		
 		"cost": 1,		
 		"Allegiance": [		
@@ -5601,7 +5601,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Hear the call from the wild.",		
+		"name" : "Hear the call from the wild.",		
 		"type": "Order",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -5627,7 +5627,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Might makes right.",		
+		"name" : "Might makes right.",		
 		"type": "Order",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -5653,7 +5653,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Anti-Intruder Trap",		
+		"name" : "Anti-Intruder Trap",		
 		"type": "Trap",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -5679,7 +5679,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Stamped formation, charge!",		
+		"name" : "Stamped formation, charge!",		
 		"type": "Order",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -5705,7 +5705,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Chilling Capybara",		
+		"name" : "Chilling Capybara",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -5731,7 +5731,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Meerkat Scholar",		
+		"name" : "Meerkat Scholar",		
 		"type": "Unit",		
 		"cost": 3,		
 		"Allegiance": [		
@@ -5757,7 +5757,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Hyena Pack",		
+		"name" : "Hyena Pack",		
 		"type": "Unit",		
 		"cost": 6,		
 		"Allegiance": [		
@@ -5783,7 +5783,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Caracal made of Flames and Ice",		
+		"name" : "Caracal made of Flames and Ice",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -5809,7 +5809,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Mountain Elephant",		
+		"name" : "Mountain Elephant",		
 		"type": "Unit",		
 		"cost": 10,		
 		"Allegiance": [		
@@ -5835,7 +5835,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Multi-Headed Hyena",		
+		"name" : "Multi-Headed Hyena",		
 		"type": "Unit",		
 		"cost": 8,		
 		"Allegiance": [		
@@ -5861,7 +5861,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Cloaked Monk",		
+		"name" : "Cloaked Monk",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
@@ -5887,7 +5887,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Man-Tortoise",		
+		"name" : "Man-Tortoise",		
 		"type": "Unit",		
 		"cost": 2,		
 		"Allegiance": [		
@@ -5913,7 +5913,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Taunting Buffalo",		
+		"name" : "Taunting Buffalo",		
 		"type": "Unit",		
 		"cost": 5,		
 		"Allegiance": [		
@@ -5939,7 +5939,7 @@
 				"isHorizontal": false
 			}	
 		},		
-		"Card Name" : "Swift Leopard",		
+		"name" : "Swift Leopard",		
 		"type": "Unit",		
 		"cost": 4,		
 		"Allegiance": [		
